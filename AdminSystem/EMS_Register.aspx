@@ -8,7 +8,7 @@
 </head>
 <body style="height: 317px">
     <form id="form1" runat="server">
-        <div id="txtUsername" style="height: 336px; margin-left: 3px">
+        <div id="Register" style="height: 336px; margin-left: 3px">
             <asp:Label ID="Label1" runat="server" style="z-index: 1; left: 14px; top: 61px; position: absolute; " Text="Password" width="172px"></asp:Label>
             <br />
             <asp:Label ID="Label4" runat="server" style="z-index: 1; left: 14px; top: 29px; position: absolute; height: 19px; width: 172px" Text="Username"></asp:Label>
