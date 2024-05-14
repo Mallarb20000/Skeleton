@@ -8,7 +8,9 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
+        <div style="height: 355px">
+            <asp:TextBox ID="TextBox1" runat="server" style="z-index: 1; left: 207px; top: 37px; position: absolute"></asp:TextBox>
+            <asp:Label ID="Label1" runat="server" style="z-index: 1; left: 57px; top: 37px; position: absolute" Text="ID"></asp:Label>
         </div>
     </form>
 </body>

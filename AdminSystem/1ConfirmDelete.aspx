@@ -1,4 +1,6 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="1ConfirmDelete.aspx.cs" Inherits="_1_ConfirmDelete" %>
+﻿
+0
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="1ConfirmDelete.aspx.cs" Inherits="_1_ConfirmDelete" %>
 
 <!DOCTYPE html>
 
